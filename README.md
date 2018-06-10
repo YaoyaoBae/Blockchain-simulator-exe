@@ -11,7 +11,7 @@ This is a little blockchain(similar to bitcoin right now) for educational purpos
 ## Basic rule
 Firsty,12 peers join the game. Everyone got 1000 yuan at the beginning. 1 yuan = 10 jiao = 100 fen. fen is the minimum monetary unit. The buttons are "Make random transaction","Reach one consusens","Make one specific transastions", "reach five consensus","add one peer into network",and "quit".Try hover mouse on the buttons and heros, u got tips.
 
-##source code
+## Source code
 The source codes will be open lattely. Plz wait a sec if you are interested.
 
 ## Let's get started

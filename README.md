@@ -16,10 +16,10 @@ The source codes will be open lattely. Plz wait a sec if you are interested.
 
 ## Let's get started
 chick  the button below.
-![image](https://github.com/YaoyaoBae/Blockchain-simulator-exe/blob/master/pics/start.png)
+![image](https://github.com/YaoyaoBae/Blockchain-simulator-exe/blob/master/pics/begin.png)
 ## Make random transaction button
 Heros will make random transaction each other.Just like this.
-![image](https://github.com/YaoyaoBae/Blockchain-simulator-exe/blob/master/pics/ramdon.png)
+![image](https://github.com/YaoyaoBae/Blockchain-simulator-exe/blob/master/pics/random.png)
 But we can see the transactions are unconfirmed before consensus reached.
 ![image](https://github.com/YaoyaoBae/Blockchain-simulator-exe/blob/master/pics/unconfirmed.png)
 ##Consensus button

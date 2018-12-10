@@ -1,10 +1,10 @@
 # Blockchain-simulator-exe
 This is a little blockchain(similar to bitcoin right now) for educational purpose by Dr. PEI YAOYAO
 ## Introduction
-* hash algrithom: Double hash256
-* encryption: ECDSA, p2ksh, p2sh might be pissibe later
+* hash algrithom: Double sha256
+* encryption: ECDSA, p2ksh, p2sh might be possible later
 * consensus rule : proof of works
-* wallet: dosenot include HD wallet 
+* wallet: random wallet 
 * peer type : all full peers, spv might be possible later
 * smart contract: might be possible later
 
